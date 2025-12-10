@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1faad15b10354214f9f7825c64785969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8088707722543880800
+    second: fondoAsteroides_0
+  - first:
+      213: -970342499481838475
+    second: fondoAsteroides_1
+  - first:
+      213: -5154655420944395621
+    second: fondoAsteroides_2
+  - first:
+      213: 911774900347783556
+    second: fondoAsteroides_3
+  - first:
+      213: 2780887092403728665
+    second: fondoAsteroides_4
+  - first:
+      213: -1491983756101088593
+    second: fondoAsteroides_5
+  - first:
+      213: 4504347391177442106
+    second: fondoAsteroides_6
+  - first:
+      213: -3869381284512392635
+    second: fondoAsteroides_7
+  - first:
+      213: -3299569515781624976
+    second: fondoAsteroides_8
+  - first:
+      213: -1835402843648807737
+    second: fondoAsteroides_9
+  - first:
+      213: -4770251389822798902
+    second: fondoAsteroides_10
+  - first:
+      213: -3383989498777061058
+    second: fondoAsteroides_11
+  - first:
+      213: -2667006936801527760
+    second: fondoAsteroides_12
+  - first:
+      213: 3357801189816291296
+    second: fondoAsteroides_13
+  - first:
+      213: -2458295572088022400
+    second: fondoAsteroides_14
+  - first:
+      213: 4539450671141503545
+    second: fondoAsteroides_15
+  - first:
+      213: -1303487874456286370
+    second: fondoAsteroides_16
+  - first:
+      213: -8814934551964075471
+    second: fondoAsteroides_17
+  - first:
+      213: -5834102404870062596
+    second: fondoAsteroides_18
+  - first:
+      213: 5372205474903764238
+    second: fondoAsteroides_19
+  - first:
+      213: 998741263972913224
+    second: fondoAsteroides_20
+  - first:
+      213: -4413297193748048703
+    second: fondoAsteroides_21
+  - first:
+      213: 7760475412614130874
+    second: fondoAsteroides_22
+  - first:
+      213: -2589795295464468495
+    second: fondoAsteroides_23
+  - first:
+      213: 1728533716229217331
+    second: fondoAsteroides_24
+  - first:
+      213: 5527143320606592960
+    second: fondoAsteroides_25
+  - first:
+      213: -5728778255244240698
+    second: fondoAsteroides_26
+  - first:
+      213: 8607188715759779020
+    second: fondoAsteroides_27
+  - first:
+      213: 6673608628997201279
+    second: fondoAsteroides_28
+  - first:
+      213: -631564969071076070
+    second: fondoAsteroides_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fondoAsteroides_0
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1460
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a520d1ae232fbf80800000000000000
+      internalID: -8088707722543880800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1319
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c9be743a6a882f0800000000000000
+      internalID: -970342499481838475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_2
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1320
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b925117843cf678b0800000000000000
+      internalID: -5154655420944395621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_3
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1274
+        width: 211
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c85ae07647ac00800000000000000
+      internalID: 911774900347783556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1139
+        width: 155
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9117137a312b79620800000000000000
+      internalID: 2780887092403728665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_5
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1274
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa01febda86b4be0800000000000000
+      internalID: -1491983756101088593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_6
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1219
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33c6145618a28e30800000000000000
+      internalID: 4504347391177442106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1043
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a181cf8323d4ac0800000000000000
+      internalID: -3869381284512392635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1062
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be02cd1039532d0800000000000000
+      internalID: -3299569515781624976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_9
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1064
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc229c86d65786e0800000000000000
+      internalID: -1835402843648807737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_10
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1064
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac37c4482a9accdb0800000000000000
+      internalID: -4770251389822798902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_11
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 917
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39bdb1ea77a901d0800000000000000
+      internalID: -3383989498777061058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 833
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03831764253ecfad0800000000000000
+      internalID: -2667006936801527760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 856
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef4269446e499e20800000000000000
+      internalID: 3357801189816291296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 719
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a17c8a33162edd0800000000000000
+      internalID: -2458295572088022400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_15
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 700
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9324cc8955e5ffe30800000000000000
+      internalID: 4539450671141503545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_16
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 608
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b01023fa419ede0800000000000000
+      internalID: -1303487874456286370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_17
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 450
+        width: 193
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a3ddf7abf0ba580800000000000000
+      internalID: -8814934551964075471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 553
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdb77ee5ca190fa0800000000000000
+      internalID: -5834102404870062596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_19
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 578
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d2c009a68ed8a40800000000000000
+      internalID: 5372205474903764238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 419
+        width: 166
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84051a553ed3cdd00800000000000000
+      internalID: 998741263972913224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 440
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c45b6eb591d0c2c0800000000000000
+      internalID: -4413297193748048703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 221
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abca401654fb2bb60800000000000000
+      internalID: 7760475412614130874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_23
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 89
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffccdc66e23f0cd0800000000000000
+      internalID: -2589795295464468495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_24
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 205
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cd02ab14cfcf710800000000000000
+      internalID: 1728533716229217331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_25
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 149
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfcd67e09b54bc40800000000000000
+      internalID: 5527143320606592960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 89
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c85f2b778a4f70b0800000000000000
+      internalID: -5728778255244240698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 101
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccbc9db880e27770800000000000000
+      internalID: 8607188715759779020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_28
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 35
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d1c5590bb6d9c50800000000000000
+      internalID: 6673608628997201279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoAsteroides_29
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d10fdb10b3c37f0800000000000000
+      internalID: -631564969071076070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fondoAsteroides_0: -8088707722543880800
+      fondoAsteroides_1: -970342499481838475
+      fondoAsteroides_10: -4770251389822798902
+      fondoAsteroides_11: -3383989498777061058
+      fondoAsteroides_12: -2667006936801527760
+      fondoAsteroides_13: 3357801189816291296
+      fondoAsteroides_14: -2458295572088022400
+      fondoAsteroides_15: 4539450671141503545
+      fondoAsteroides_16: -1303487874456286370
+      fondoAsteroides_17: -8814934551964075471
+      fondoAsteroides_18: -5834102404870062596
+      fondoAsteroides_19: 5372205474903764238
+      fondoAsteroides_2: -5154655420944395621
+      fondoAsteroides_20: 998741263972913224
+      fondoAsteroides_21: -4413297193748048703
+      fondoAsteroides_22: 7760475412614130874
+      fondoAsteroides_23: -2589795295464468495
+      fondoAsteroides_24: 1728533716229217331
+      fondoAsteroides_25: 5527143320606592960
+      fondoAsteroides_26: -5728778255244240698
+      fondoAsteroides_27: 8607188715759779020
+      fondoAsteroides_28: 6673608628997201279
+      fondoAsteroides_29: -631564969071076070
+      fondoAsteroides_3: 911774900347783556
+      fondoAsteroides_4: 2780887092403728665
+      fondoAsteroides_5: -1491983756101088593
+      fondoAsteroides_6: 4504347391177442106
+      fondoAsteroides_7: -3869381284512392635
+      fondoAsteroides_8: -3299569515781624976
+      fondoAsteroides_9: -1835402843648807737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

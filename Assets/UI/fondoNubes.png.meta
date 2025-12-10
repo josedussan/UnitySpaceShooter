@@ -1,0 +1,4277 @@
+fileFormatVersion: 2
+guid: 0263eb02ddccbb342b984ee112449df8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8992074523656212223
+    second: fondoNubes_0
+  - first:
+      213: 3766538864117462194
+    second: fondoNubes_1
+  - first:
+      213: -2773274321663613274
+    second: fondoNubes_2
+  - first:
+      213: -4054526057701391883
+    second: fondoNubes_3
+  - first:
+      213: 7846685384722589807
+    second: fondoNubes_4
+  - first:
+      213: -3686840256213574595
+    second: fondoNubes_5
+  - first:
+      213: -3057783274109100536
+    second: fondoNubes_6
+  - first:
+      213: -4955691032387738823
+    second: fondoNubes_7
+  - first:
+      213: 7136020035940444754
+    second: fondoNubes_8
+  - first:
+      213: 143527052188370761
+    second: fondoNubes_9
+  - first:
+      213: -8715013038583024017
+    second: fondoNubes_10
+  - first:
+      213: -4191746355054548050
+    second: fondoNubes_11
+  - first:
+      213: 7687149786336295083
+    second: fondoNubes_12
+  - first:
+      213: 1976508027675842696
+    second: fondoNubes_13
+  - first:
+      213: 8402178180337060939
+    second: fondoNubes_14
+  - first:
+      213: -6784736096805712536
+    second: fondoNubes_15
+  - first:
+      213: 7313685994108623237
+    second: fondoNubes_16
+  - first:
+      213: -5614273370905829631
+    second: fondoNubes_17
+  - first:
+      213: -7706041968432298210
+    second: fondoNubes_18
+  - first:
+      213: 2642463804025249550
+    second: fondoNubes_19
+  - first:
+      213: -466580145010809656
+    second: fondoNubes_20
+  - first:
+      213: -4934146938063885752
+    second: fondoNubes_21
+  - first:
+      213: -1757068006119589837
+    second: fondoNubes_22
+  - first:
+      213: -1468782720927433962
+    second: fondoNubes_23
+  - first:
+      213: -7894867280994514551
+    second: fondoNubes_24
+  - first:
+      213: 5408242865897402917
+    second: fondoNubes_25
+  - first:
+      213: -3874938593084146900
+    second: fondoNubes_26
+  - first:
+      213: -783386638671090052
+    second: fondoNubes_27
+  - first:
+      213: -6013396405318595785
+    second: fondoNubes_28
+  - first:
+      213: -2661896845659234970
+    second: fondoNubes_29
+  - first:
+      213: -1494440286011150783
+    second: fondoNubes_30
+  - first:
+      213: -7448565819519490431
+    second: fondoNubes_31
+  - first:
+      213: 2154433593327220128
+    second: fondoNubes_32
+  - first:
+      213: 183805610359087369
+    second: fondoNubes_33
+  - first:
+      213: 4249251623642066641
+    second: fondoNubes_34
+  - first:
+      213: -9155752549032469369
+    second: fondoNubes_35
+  - first:
+      213: 1081088304726495270
+    second: fondoNubes_36
+  - first:
+      213: -1799599451847977410
+    second: fondoNubes_37
+  - first:
+      213: -6817739002151768529
+    second: fondoNubes_38
+  - first:
+      213: 334921863977538607
+    second: fondoNubes_39
+  - first:
+      213: -1469501844808854989
+    second: fondoNubes_40
+  - first:
+      213: -466217038156344980
+    second: fondoNubes_41
+  - first:
+      213: 1455591101519660096
+    second: fondoNubes_42
+  - first:
+      213: -978892159061659249
+    second: fondoNubes_43
+  - first:
+      213: -5157158807444323622
+    second: fondoNubes_44
+  - first:
+      213: 8102658946269579605
+    second: fondoNubes_45
+  - first:
+      213: 1673756416976218881
+    second: fondoNubes_46
+  - first:
+      213: -1301918509863487016
+    second: fondoNubes_47
+  - first:
+      213: 8283465559579960555
+    second: fondoNubes_48
+  - first:
+      213: -5716103857719958548
+    second: fondoNubes_49
+  - first:
+      213: 4681879706644987355
+    second: fondoNubes_50
+  - first:
+      213: 3519878112974896602
+    second: fondoNubes_51
+  - first:
+      213: -2706919438959973669
+    second: fondoNubes_52
+  - first:
+      213: 8159430109254058487
+    second: fondoNubes_53
+  - first:
+      213: -2403623488555306851
+    second: fondoNubes_54
+  - first:
+      213: 1485090538494652664
+    second: fondoNubes_55
+  - first:
+      213: 8514646360674537074
+    second: fondoNubes_56
+  - first:
+      213: -6584192719148168059
+    second: fondoNubes_57
+  - first:
+      213: 3493510955409513953
+    second: fondoNubes_58
+  - first:
+      213: 7157649314524517881
+    second: fondoNubes_59
+  - first:
+      213: -5962014905693391435
+    second: fondoNubes_60
+  - first:
+      213: -770032724061375982
+    second: fondoNubes_61
+  - first:
+      213: -7520151919232693935
+    second: fondoNubes_62
+  - first:
+      213: 4557356287797611239
+    second: fondoNubes_63
+  - first:
+      213: -8629310396228700938
+    second: fondoNubes_64
+  - first:
+      213: 5345296757675462572
+    second: fondoNubes_65
+  - first:
+      213: -6485494476700752246
+    second: fondoNubes_66
+  - first:
+      213: 756720371430149778
+    second: fondoNubes_67
+  - first:
+      213: 655548577744920958
+    second: fondoNubes_68
+  - first:
+      213: -1747982428237779221
+    second: fondoNubes_69
+  - first:
+      213: 2846193737859412124
+    second: fondoNubes_70
+  - first:
+      213: 3562297836523031970
+    second: fondoNubes_71
+  - first:
+      213: 7147228975538818908
+    second: fondoNubes_72
+  - first:
+      213: 3818408999535802640
+    second: fondoNubes_73
+  - first:
+      213: 3841165968835597787
+    second: fondoNubes_74
+  - first:
+      213: -7963230125563818372
+    second: fondoNubes_75
+  - first:
+      213: 4994538287063513301
+    second: fondoNubes_76
+  - first:
+      213: 806173462271716554
+    second: fondoNubes_77
+  - first:
+      213: 5533898358450662486
+    second: fondoNubes_78
+  - first:
+      213: -8942266537068332323
+    second: fondoNubes_79
+  - first:
+      213: -7379140627031540205
+    second: fondoNubes_80
+  - first:
+      213: -8735197701821279778
+    second: fondoNubes_81
+  - first:
+      213: -1807578359745809342
+    second: fondoNubes_82
+  - first:
+      213: -8869120949165478821
+    second: fondoNubes_83
+  - first:
+      213: 9085706630004278585
+    second: fondoNubes_84
+  - first:
+      213: 8867572026909495801
+    second: fondoNubes_85
+  - first:
+      213: -1461227040862550035
+    second: fondoNubes_86
+  - first:
+      213: 8115923697061851913
+    second: fondoNubes_87
+  - first:
+      213: 2920653504306326152
+    second: fondoNubes_88
+  - first:
+      213: -9117662840639641538
+    second: fondoNubes_89
+  - first:
+      213: -8204438208999707843
+    second: fondoNubes_90
+  - first:
+      213: 5030612833801564676
+    second: fondoNubes_91
+  - first:
+      213: 2360032006165294656
+    second: fondoNubes_92
+  - first:
+      213: -3986001552697178889
+    second: fondoNubes_93
+  - first:
+      213: -1170717004558460437
+    second: fondoNubes_94
+  - first:
+      213: -3480826079054252123
+    second: fondoNubes_95
+  - first:
+      213: -1083973258287498174
+    second: fondoNubes_96
+  - first:
+      213: 5123612166441722192
+    second: fondoNubes_97
+  - first:
+      213: -3280600403238024143
+    second: fondoNubes_98
+  - first:
+      213: -7690290858299229865
+    second: fondoNubes_99
+  - first:
+      213: 1476237948895194402
+    second: fondoNubes_100
+  - first:
+      213: -5731877461381110909
+    second: fondoNubes_101
+  - first:
+      213: 5091111743688626640
+    second: fondoNubes_102
+  - first:
+      213: 4648338251936450307
+    second: fondoNubes_103
+  - first:
+      213: -7586641628442828807
+    second: fondoNubes_104
+  - first:
+      213: -8416860777163602334
+    second: fondoNubes_105
+  - first:
+      213: -7472647161894082301
+    second: fondoNubes_106
+  - first:
+      213: 4252332599330141283
+    second: fondoNubes_107
+  - first:
+      213: -2139641222563217223
+    second: fondoNubes_108
+  - first:
+      213: 5541883101287357986
+    second: fondoNubes_109
+  - first:
+      213: 7294067275368447794
+    second: fondoNubes_110
+  - first:
+      213: -7793260441476373423
+    second: fondoNubes_111
+  - first:
+      213: -8066810533269473087
+    second: fondoNubes_112
+  - first:
+      213: 250979777704291323
+    second: fondoNubes_113
+  - first:
+      213: 2014266989219952429
+    second: fondoNubes_114
+  - first:
+      213: 7043742776157560720
+    second: fondoNubes_115
+  - first:
+      213: -6067257370084985501
+    second: fondoNubes_116
+  - first:
+      213: 1441681336836340495
+    second: fondoNubes_117
+  - first:
+      213: 1283941363780365335
+    second: fondoNubes_118
+  - first:
+      213: 2603439828227842085
+    second: fondoNubes_119
+  - first:
+      213: -6646314278857693759
+    second: fondoNubes_120
+  - first:
+      213: -5940519270020306977
+    second: fondoNubes_121
+  - first:
+      213: 768414294593434166
+    second: fondoNubes_122
+  - first:
+      213: 890382673817299410
+    second: fondoNubes_123
+  - first:
+      213: -8292061251255088935
+    second: fondoNubes_124
+  - first:
+      213: 1406814649602794503
+    second: fondoNubes_125
+  - first:
+      213: 2230082995258692597
+    second: fondoNubes_126
+  - first:
+      213: -2856946676846190951
+    second: fondoNubes_127
+  - first:
+      213: -3697780987847851134
+    second: fondoNubes_128
+  - first:
+      213: -6588279899887123829
+    second: fondoNubes_129
+  - first:
+      213: 2594525529984367460
+    second: fondoNubes_130
+  - first:
+      213: -682691204666339206
+    second: fondoNubes_131
+  - first:
+      213: 4198527467332175010
+    second: fondoNubes_132
+  - first:
+      213: -1718902732190416449
+    second: fondoNubes_133
+  - first:
+      213: -4314925028887895557
+    second: fondoNubes_134
+  - first:
+      213: 3644713744887012368
+    second: fondoNubes_135
+  - first:
+      213: -8274875017645201570
+    second: fondoNubes_136
+  - first:
+      213: 2232862122426011193
+    second: fondoNubes_137
+  - first:
+      213: 254985892372482359
+    second: fondoNubes_138
+  - first:
+      213: -7338645213510213676
+    second: fondoNubes_139
+  - first:
+      213: -6506307263395552864
+    second: fondoNubes_140
+  - first:
+      213: -3056422493536053829
+    second: fondoNubes_141
+  - first:
+      213: 876548402792699896
+    second: fondoNubes_142
+  - first:
+      213: 2408921802491850753
+    second: fondoNubes_143
+  - first:
+      213: 8554996341567507572
+    second: fondoNubes_144
+  - first:
+      213: 7916634245562994186
+    second: fondoNubes_145
+  - first:
+      213: 8140049073055679917
+    second: fondoNubes_146
+  - first:
+      213: -2916470978505405560
+    second: fondoNubes_147
+  - first:
+      213: 7058359601052096631
+    second: fondoNubes_148
+  - first:
+      213: -1016671877680538829
+    second: fondoNubes_149
+  - first:
+      213: 2716139888184858947
+    second: fondoNubes_150
+  - first:
+      213: 5289535514999713435
+    second: fondoNubes_151
+  - first:
+      213: 2609042844369802461
+    second: fondoNubes_152
+  - first:
+      213: -5104318268334448251
+    second: fondoNubes_153
+  - first:
+      213: -7643490282862839227
+    second: fondoNubes_154
+  - first:
+      213: 3619156258861799329
+    second: fondoNubes_155
+  - first:
+      213: -3859554242995561886
+    second: fondoNubes_156
+  - first:
+      213: 6549906957577308803
+    second: fondoNubes_157
+  - first:
+      213: 2396869749268124434
+    second: fondoNubes_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fondoNubes_0
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1475
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101b1afdcdbb53380800000000000000
+      internalID: -8992074523656212223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_1
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1448
+        width: 198
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4bc64142f654430800000000000000
+      internalID: 3766538864117462194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1479
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a62788a2b95389d0800000000000000
+      internalID: -2773274321663613274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1446
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1c426480e6bb7c0800000000000000
+      internalID: -4054526057701391883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1449
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a3aca8c605ec60800000000000000
+      internalID: 7846685384722589807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_5
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1456
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c97c81256b5dcc0800000000000000
+      internalID: -3686840256213574595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_6
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1468
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e989220529095d0800000000000000
+      internalID: -3057783274109100536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_7
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1449
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a0fd2349d93bb0800000000000000
+      internalID: -4955691032387738823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_8
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1468
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aec481a6c380360800000000000000
+      internalID: 7136020035940444754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_9
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1460
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c851f719edf100800000000000000
+      internalID: 143527052188370761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_10
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1466
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f667c56c0dd0e0780800000000000000
+      internalID: -8715013038583024017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_11
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1399
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab6f6e16ece3d5c0800000000000000
+      internalID: -4191746355054548050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_12
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1024
+        width: 461
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba87bcd900e3eaa60800000000000000
+      internalID: 7687149786336295083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_13
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1456
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88893554497fd6b10800000000000000
+      internalID: 1976508027675842696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_14
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1437
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c4782d9888a9470800000000000000
+      internalID: 8402178180337060939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_15
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1452
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d002f8776c7d1a0800000000000000
+      internalID: -6784736096805712536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_16
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1456
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589189d79ae6f7560800000000000000
+      internalID: 7313685994108623237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_17
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1447
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f19376d181612b0800000000000000
+      internalID: -5614273370905829631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_18
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1437
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17475778a3ae0590800000000000000
+      internalID: -7706041968432298210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1193
+        width: 258
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f90c254daeba420800000000000000
+      internalID: 2642463804025249550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_20
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1444
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4616584df5689f0800000000000000
+      internalID: -466580145010809656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_21
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1437
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aee178083668bb0800000000000000
+      internalID: -4934146938063885752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_22
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1444
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338b90135f3ad97e0800000000000000
+      internalID: -1757068006119589837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_23
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1425
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b73e2b5e5dd9be0800000000000000
+      internalID: -1468782720927433962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_24
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1132
+        width: 326
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989c777690ccf6290800000000000000
+      internalID: -7894867280994514551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_25
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1350
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522fad08b30fd0b40800000000000000
+      internalID: 5408242865897402917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_26
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1387
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b74c041e3793ac0800000000000000
+      internalID: -3874938593084146900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_27
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1374
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee830b00ad025f0800000000000000
+      internalID: -783386638671090052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_28
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1374
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bcf5764df1c8ca0800000000000000
+      internalID: -6013396405318595785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_29
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1315
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d9fb51cea0f0bd0800000000000000
+      internalID: -2661896845659234970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_30
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1351
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ea54e4a7ea24be0800000000000000
+      internalID: -1494440286011150783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1298
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186ac61f9d061a890800000000000000
+      internalID: -7448565819519490431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_32
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1067
+        width: 495
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5ff6e30f516ed10800000000000000
+      internalID: 2154433593327220128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_33
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1307
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9016d219a320d8200800000000000000
+      internalID: 183805610359087369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_34
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1295
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deef6496df58fa30800000000000000
+      internalID: 4249251623642066641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_35
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1274
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cda8fd09b30f080800000000000000
+      internalID: -9155752549032469369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_36
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1195
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6205d06d51cc00f00800000000000000
+      internalID: 1081088304726495270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_37
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1207
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e361d9e45d98607e0800000000000000
+      internalID: -1799599451847977410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_38
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1191
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eea6ddf768261a0800000000000000
+      internalID: -6817739002151768529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_39
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1207
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2494e929a1e5a400800000000000000
+      internalID: 334921863977538607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_40
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332136f9bd74b9be0800000000000000
+      internalID: -1469501844808854989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_41
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61d47ce21aa789f0800000000000000
+      internalID: -466217038156344980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1176
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0448c40156c433410800000000000000
+      internalID: 1455591101519660096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81f6b984c64a62f0800000000000000
+      internalID: -978892159061659249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_44
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2010073671e68b0800000000000000
+      internalID: -5157158807444323622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_45
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1188
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5590a84c16d627070800000000000000
+      internalID: 8102658946269579605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_46
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10be562e7906a3710800000000000000
+      internalID: 1673756416976218881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9b41d5308aeede0800000000000000
+      internalID: -1301918509863487016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_48
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1007
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be422fbe908c4f270800000000000000
+      internalID: 8283465559579960555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_49
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1126
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3ac5d93d15ca0b0800000000000000
+      internalID: -5716103857719958548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1049
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd3fab99c069f040800000000000000
+      internalID: 4681879706644987355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1055
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add7a80ae7e19d030800000000000000
+      internalID: 3519878112974896602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_52
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1035
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdae035bc171f6ad0800000000000000
+      internalID: -2706919438959973669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_53
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1035
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f107bf247e1c3170800000000000000
+      internalID: 8159430109254058487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_54
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1018
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9030ee0c2d94aed0800000000000000
+      internalID: -2403623488555306851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 602
+        width: 533
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f07446f9f91c9410800000000000000
+      internalID: 1485090538494652664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1021
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e0414a0c91a2670800000000000000
+      internalID: 8514646360674537074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_57
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1034
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cc5724b9f30a4a0800000000000000
+      internalID: -6584192719148168059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_58
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1003
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed9e1c54b17b7030800000000000000
+      internalID: 3493510955409513953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_59
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 996
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55d03f024155360800000000000000
+      internalID: 7157649314524517881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_60
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1003
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5bf88080ba24da0800000000000000
+      internalID: -5962014905693391435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_61
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 999
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21235e8315b4055f0800000000000000
+      internalID: -770032724061375982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_62
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 999
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c9254cad03a790800000000000000
+      internalID: -7520151919232693935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_63
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 975
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eac119d56bfe3f30800000000000000
+      internalID: 4557356287797611239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_64
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 969
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f3382ae78e3880800000000000000
+      internalID: -8629310396228700938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_65
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 977
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf0b4c941f4e2a40800000000000000
+      internalID: 5345296757675462572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_66
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 977
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a866e739225eef5a0800000000000000
+      internalID: -6485494476700752246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_67
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 985
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e45652b29608a00800000000000000
+      internalID: 756720371430149778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_68
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 961
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71af7d45f9f81900800000000000000
+      internalID: 655548577744920958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_69
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 610
+        width: 407
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee23432e3bedb7e0800000000000000
+      internalID: -1747982428237779221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_70
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 912
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c903d03ff16bf7720800000000000000
+      internalID: 2846193737859412124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_71
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 921
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad091a2203df6130800000000000000
+      internalID: 3562297836523031970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_72
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 846
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fce57b2ee003360800000000000000
+      internalID: 7147228975538818908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_73
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 836
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0197c7811c6bdf430800000000000000
+      internalID: 3818408999535802640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_74
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 892
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d3c7e8109e4530800000000000000
+      internalID: 3841165968835597787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_75
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 884
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e441d446cec7190800000000000000
+      internalID: -7963230125563818372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_76
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 893
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d832812c1a205540800000000000000
+      internalID: 4994538287063513301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_77
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 894
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc6d0e1e7a103b00800000000000000
+      internalID: 806173462271716554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_78
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 884
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca196bc3b5ccc40800000000000000
+      internalID: 5533898358450662486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_79
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 877
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddafd2376ffa6e380800000000000000
+      internalID: -8942266537068332323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 848
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb12232b6089990800000000000000
+      internalID: -7379140627031540205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_81
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 804
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed15224a8f756c680800000000000000
+      internalID: -8735197701821279778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_82
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 826
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244faab0f013ae6e0800000000000000
+      internalID: -1807578359745809342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 838
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c2403cc7d8ae480800000000000000
+      internalID: -8869120949165478821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_84
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 830
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93501d6ba0ae61e70800000000000000
+      internalID: 9085706630004278585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_85
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 838
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1912ca6c1ff0b70800000000000000
+      internalID: 8867572026909495801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_86
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 521
+        width: 376
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7413d8fbda8bbe0800000000000000
+      internalID: -1461227040862550035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_87
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 804
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903fb8b3a9d81a070800000000000000
+      internalID: 8115923697061851913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_88
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 779
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aad2c43ee388820800000000000000
+      internalID: 2920653504306326152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_89
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 757
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3825e134fd877180800000000000000
+      internalID: -9117662840639641538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_90
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 710
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2eeafaeaf32e80800000000000000
+      internalID: -8204438208999707843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_91
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 452
+        width: 253
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402734118b350d540800000000000000
+      internalID: 5030612833801564676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 691
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee80a0b9480c020800000000000000
+      internalID: 2360032006165294656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_93
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 672
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44451e4b0eea8c0800000000000000
+      internalID: -3986001552697178889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_94
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 633
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be998ca4617c0cfe0800000000000000
+      internalID: -1170717004558460437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_95
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 622
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a73e019f1f91bfc0800000000000000
+      internalID: -3480826079054252123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_96
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 580
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c30c19014f4f0f0800000000000000
+      internalID: -1083973258287498174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_97
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 622
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e0ab8e1aba1740800000000000000
+      internalID: 5123612166441722192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_98
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 574
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c8efa8057f872d0800000000000000
+      internalID: -3280600403238024143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_99
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 599
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f3a39539964590800000000000000
+      internalID: -7690290858299229865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_100
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 571
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d69d3d796ac7410800000000000000
+      internalID: 1476237948895194402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_101
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383af4251d74470b0800000000000000
+      internalID: -5731877461381110909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_102
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 510
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d15162382347a640800000000000000
+      internalID: 5091111743688626640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_103
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307488e1307328040800000000000000
+      internalID: 4648338251936450307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_104
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 496
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff597a72a5d6b690800000000000000
+      internalID: -7586641628442828807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_105
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 508
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266ce35b7bd413b80800000000000000
+      internalID: -8416860777163602334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_106
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 500
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309e87f7ff2db4890800000000000000
+      internalID: -7472647161894082301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_107
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 508
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f2e128f1530b30800000000000000
+      internalID: 4252332599330141283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 53
+        width: 743
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b04656f4a77e42e0800000000000000
+      internalID: -2139641222563217223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_109
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 479
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e19f68159b8ec40800000000000000
+      internalID: 5541883101287357986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_110
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 455
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f33249a8bb93560800000000000000
+      internalID: 7294067275368447794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_111
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 455
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15462bf3be6c8d390800000000000000
+      internalID: -7793260441476373423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_112
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 461
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f71e4f8eec0090800000000000000
+      internalID: -8066810533269473087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_113
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 432
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbeedf27c8ab7300800000000000000
+      internalID: 250979777704291323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_114
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 427
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d273047972d14fb10800000000000000
+      internalID: 2014266989219952429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_115
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 421
+        width: 85
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f581e4cb660c160800000000000000
+      internalID: 7043742776157560720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_116
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 448
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365b63f4195cccba0800000000000000
+      internalID: -6067257370084985501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_117
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 441
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bb0799981e10410800000000000000
+      internalID: 1441681336836340495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_118
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 448
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c2f842ed971d110800000000000000
+      internalID: 1283941363780365335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_119
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 225
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520ef9beab6412420800000000000000
+      internalID: 2603439828227842085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_120
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 51
+        width: 865
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5a417806c83c3a0800000000000000
+      internalID: -6646314278857693759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_121
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 150
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a319b2390f8da0800000000000000
+      internalID: -5940519270020306977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_122
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632f29dcab4f9aa00800000000000000
+      internalID: 768414294593434166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_123
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 75
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9ea0b03564b5c00800000000000000
+      internalID: 890382673817299410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_124
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 55
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c827a93eacec80800000000000000
+      internalID: -8292061251255088935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_125
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e36e5872068310800000000000000
+      internalID: 1406814649602794503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_126
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 59
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f398003ba8d2fe10800000000000000
+      internalID: 2230082995258692597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_127
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 67
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e995852261a58d0800000000000000
+      internalID: -2856946676846190951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 33
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c22288c7deacc0800000000000000
+      internalID: -3697780987847851134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_129
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 68
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82c166565ab194a0800000000000000
+      internalID: -6588279899887123829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_130
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 173
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b766f193b910420800000000000000
+      internalID: 2594525529984367460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_131
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70549667f79686f0800000000000000
+      internalID: -682691204666339206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_132
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 48
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a40e0e9c7a244a30800000000000000
+      internalID: 4198527467332175010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_133
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 36
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1875c721b3528e0800000000000000
+      internalID: -1718902732190416449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_134
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 36
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1e1b43c8e4e14c0800000000000000
+      internalID: -4314925028887895557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_135
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 39
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c59f727df949230800000000000000
+      internalID: 3644713744887012368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_136
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 39
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57e08c730db92d80800000000000000
+      internalID: -8274875017645201570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_137
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e80a72548bcfe10800000000000000
+      internalID: 2232862122426011193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_138
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73909917154e98300800000000000000
+      internalID: 254985892372482359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_139
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 159
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df5a146f05e72a90800000000000000
+      internalID: -7338645213510213676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_140
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 33
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1a3cd0404f4b5a0800000000000000
+      internalID: -6506307263395552864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_141
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 51
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5154d8fe76595d0800000000000000
+      internalID: -3056422493536053829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_142
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f715e0d0202a2c00800000000000000
+      internalID: 876548402792699896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_143
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 49
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007839cd953e6120800000000000000
+      internalID: 2408921802491850753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_144
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cc5e9a8d379b670800000000000000
+      internalID: 8554996341567507572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_145
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e8977f6e88ddd60800000000000000
+      internalID: 7916634245562994186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_146
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 26
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54bbd018347f070800000000000000
+      internalID: 8140049073055679917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_147
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 38
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0370e81d9687d0800000000000000
+      internalID: -2916470978505405560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7789dad09a454f160800000000000000
+      internalID: 7058359601052096631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bd8b5505e04e1f0800000000000000
+      internalID: -1016671877680538829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_150
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 26
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349178b66daa1b520800000000000000
+      internalID: 2716139888184858947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eee569684386940800000000000000
+      internalID: 5289535514999713435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4df66c4ae253420800000000000000
+      internalID: 2609042844369802461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_153
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581636b2491d929b0800000000000000
+      internalID: -5104318268334448251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_154
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a7fcda51edce590800000000000000
+      internalID: -7643490282862839227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_155
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d61c3173d93230800000000000000
+      internalID: 3619156258861799329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_156
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ad5e26ddb107ac0800000000000000
+      internalID: -3859554242995561886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_157
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a414ecca1f5ea50800000000000000
+      internalID: 6549906957577308803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fondoNubes_158
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213910a7654634120800000000000000
+      internalID: 2396869749268124434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fondoNubes_0: -8992074523656212223
+      fondoNubes_1: 3766538864117462194
+      fondoNubes_10: -8715013038583024017
+      fondoNubes_100: 1476237948895194402
+      fondoNubes_101: -5731877461381110909
+      fondoNubes_102: 5091111743688626640
+      fondoNubes_103: 4648338251936450307
+      fondoNubes_104: -7586641628442828807
+      fondoNubes_105: -8416860777163602334
+      fondoNubes_106: -7472647161894082301
+      fondoNubes_107: 4252332599330141283
+      fondoNubes_108: -2139641222563217223
+      fondoNubes_109: 5541883101287357986
+      fondoNubes_11: -4191746355054548050
+      fondoNubes_110: 7294067275368447794
+      fondoNubes_111: -7793260441476373423
+      fondoNubes_112: -8066810533269473087
+      fondoNubes_113: 250979777704291323
+      fondoNubes_114: 2014266989219952429
+      fondoNubes_115: 7043742776157560720
+      fondoNubes_116: -6067257370084985501
+      fondoNubes_117: 1441681336836340495
+      fondoNubes_118: 1283941363780365335
+      fondoNubes_119: 2603439828227842085
+      fondoNubes_12: 7687149786336295083
+      fondoNubes_120: -6646314278857693759
+      fondoNubes_121: -5940519270020306977
+      fondoNubes_122: 768414294593434166
+      fondoNubes_123: 890382673817299410
+      fondoNubes_124: -8292061251255088935
+      fondoNubes_125: 1406814649602794503
+      fondoNubes_126: 2230082995258692597
+      fondoNubes_127: -2856946676846190951
+      fondoNubes_128: -3697780987847851134
+      fondoNubes_129: -6588279899887123829
+      fondoNubes_13: 1976508027675842696
+      fondoNubes_130: 2594525529984367460
+      fondoNubes_131: -682691204666339206
+      fondoNubes_132: 4198527467332175010
+      fondoNubes_133: -1718902732190416449
+      fondoNubes_134: -4314925028887895557
+      fondoNubes_135: 3644713744887012368
+      fondoNubes_136: -8274875017645201570
+      fondoNubes_137: 2232862122426011193
+      fondoNubes_138: 254985892372482359
+      fondoNubes_139: -7338645213510213676
+      fondoNubes_14: 8402178180337060939
+      fondoNubes_140: -6506307263395552864
+      fondoNubes_141: -3056422493536053829
+      fondoNubes_142: 876548402792699896
+      fondoNubes_143: 2408921802491850753
+      fondoNubes_144: 8554996341567507572
+      fondoNubes_145: 7916634245562994186
+      fondoNubes_146: 8140049073055679917
+      fondoNubes_147: -2916470978505405560
+      fondoNubes_148: 7058359601052096631
+      fondoNubes_149: -1016671877680538829
+      fondoNubes_15: -6784736096805712536
+      fondoNubes_150: 2716139888184858947
+      fondoNubes_151: 5289535514999713435
+      fondoNubes_152: 2609042844369802461
+      fondoNubes_153: -5104318268334448251
+      fondoNubes_154: -7643490282862839227
+      fondoNubes_155: 3619156258861799329
+      fondoNubes_156: -3859554242995561886
+      fondoNubes_157: 6549906957577308803
+      fondoNubes_158: 2396869749268124434
+      fondoNubes_16: 7313685994108623237
+      fondoNubes_17: -5614273370905829631
+      fondoNubes_18: -7706041968432298210
+      fondoNubes_19: 2642463804025249550
+      fondoNubes_2: -2773274321663613274
+      fondoNubes_20: -466580145010809656
+      fondoNubes_21: -4934146938063885752
+      fondoNubes_22: -1757068006119589837
+      fondoNubes_23: -1468782720927433962
+      fondoNubes_24: -7894867280994514551
+      fondoNubes_25: 5408242865897402917
+      fondoNubes_26: -3874938593084146900
+      fondoNubes_27: -783386638671090052
+      fondoNubes_28: -6013396405318595785
+      fondoNubes_29: -2661896845659234970
+      fondoNubes_3: -4054526057701391883
+      fondoNubes_30: -1494440286011150783
+      fondoNubes_31: -7448565819519490431
+      fondoNubes_32: 2154433593327220128
+      fondoNubes_33: 183805610359087369
+      fondoNubes_34: 4249251623642066641
+      fondoNubes_35: -9155752549032469369
+      fondoNubes_36: 1081088304726495270
+      fondoNubes_37: -1799599451847977410
+      fondoNubes_38: -6817739002151768529
+      fondoNubes_39: 334921863977538607
+      fondoNubes_4: 7846685384722589807
+      fondoNubes_40: -1469501844808854989
+      fondoNubes_41: -466217038156344980
+      fondoNubes_42: 1455591101519660096
+      fondoNubes_43: -978892159061659249
+      fondoNubes_44: -5157158807444323622
+      fondoNubes_45: 8102658946269579605
+      fondoNubes_46: 1673756416976218881
+      fondoNubes_47: -1301918509863487016
+      fondoNubes_48: 8283465559579960555
+      fondoNubes_49: -5716103857719958548
+      fondoNubes_5: -3686840256213574595
+      fondoNubes_50: 4681879706644987355
+      fondoNubes_51: 3519878112974896602
+      fondoNubes_52: -2706919438959973669
+      fondoNubes_53: 8159430109254058487
+      fondoNubes_54: -2403623488555306851
+      fondoNubes_55: 1485090538494652664
+      fondoNubes_56: 8514646360674537074
+      fondoNubes_57: -6584192719148168059
+      fondoNubes_58: 3493510955409513953
+      fondoNubes_59: 7157649314524517881
+      fondoNubes_6: -3057783274109100536
+      fondoNubes_60: -5962014905693391435
+      fondoNubes_61: -770032724061375982
+      fondoNubes_62: -7520151919232693935
+      fondoNubes_63: 4557356287797611239
+      fondoNubes_64: -8629310396228700938
+      fondoNubes_65: 5345296757675462572
+      fondoNubes_66: -6485494476700752246
+      fondoNubes_67: 756720371430149778
+      fondoNubes_68: 655548577744920958
+      fondoNubes_69: -1747982428237779221
+      fondoNubes_7: -4955691032387738823
+      fondoNubes_70: 2846193737859412124
+      fondoNubes_71: 3562297836523031970
+      fondoNubes_72: 7147228975538818908
+      fondoNubes_73: 3818408999535802640
+      fondoNubes_74: 3841165968835597787
+      fondoNubes_75: -7963230125563818372
+      fondoNubes_76: 4994538287063513301
+      fondoNubes_77: 806173462271716554
+      fondoNubes_78: 5533898358450662486
+      fondoNubes_79: -8942266537068332323
+      fondoNubes_8: 7136020035940444754
+      fondoNubes_80: -7379140627031540205
+      fondoNubes_81: -8735197701821279778
+      fondoNubes_82: -1807578359745809342
+      fondoNubes_83: -8869120949165478821
+      fondoNubes_84: 9085706630004278585
+      fondoNubes_85: 8867572026909495801
+      fondoNubes_86: -1461227040862550035
+      fondoNubes_87: 8115923697061851913
+      fondoNubes_88: 2920653504306326152
+      fondoNubes_89: -9117662840639641538
+      fondoNubes_9: 143527052188370761
+      fondoNubes_90: -8204438208999707843
+      fondoNubes_91: 5030612833801564676
+      fondoNubes_92: 2360032006165294656
+      fondoNubes_93: -3986001552697178889
+      fondoNubes_94: -1170717004558460437
+      fondoNubes_95: -3480826079054252123
+      fondoNubes_96: -1083973258287498174
+      fondoNubes_97: 5123612166441722192
+      fondoNubes_98: -3280600403238024143
+      fondoNubes_99: -7690290858299229865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
