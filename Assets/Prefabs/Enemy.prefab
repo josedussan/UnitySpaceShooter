@@ -200,6 +200,7 @@ MonoBehaviour:
   velocidad: 7
   disparoPrefab: {fileID: 9044284002890671739, guid: 0103e24d6b6461047860ec5216057be3, type: 3}
   spawnPoint: {fileID: 780596652840446436}
+  explosionPrefab: {fileID: 7132051793679938657, guid: b1c026c5a89b21f4eae756e8bb6d9309, type: 3}
 --- !u!61 &2188514569342204549
 BoxCollider2D:
   m_ObjectHideFlags: 0

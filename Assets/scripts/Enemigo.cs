@@ -6,6 +6,7 @@ public class Enemigo : MonoBehaviour
     [SerializeField] private float velocidad;
     [SerializeField] private GameObject disparoPrefab;
     [SerializeField] private GameObject spawnPoint;
+    [SerializeField] private GameObject explosionPrefab;
     private PlayerP jugador;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -33,7 +34,10 @@ public class Enemigo : MonoBehaviour
         if (elOtro.gameObject.CompareTag("DisparoPlayer"))
         {
             jugador.ActualizarScore(10);
+            GameObject explosion= Instantiate(explosionPrefab,this.transform.position,Quaternion.identity);
             Destroy(this.gameObject);
+            Destroy(explosion,0.16f);
+            
         }
     }
 }

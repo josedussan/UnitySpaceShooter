@@ -8,6 +8,7 @@ public class PlayerP : MonoBehaviour
     [SerializeField] private float velocidad;
     [SerializeField] private float ratioDisparo;
     [SerializeField] private GameObject disparoPrefab;
+    [SerializeField] private GameObject danoEnemigoPrefab;
     [SerializeField] private List<GameObject> SpawnPoints;
     [SerializeField] private Slider salud;
     [SerializeField] private TMP_Text score;
@@ -66,6 +67,8 @@ public class PlayerP : MonoBehaviour
         {
             vidas -= 10;
             ActualizarVida();
+            GameObject dano = Instantiate(danoEnemigoPrefab,elOtro.transform.position,Quaternion.identity);
+            Destroy(dano,0.12f);
             Destroy(elOtro.gameObject);
             if (vidas<=0)
             {
