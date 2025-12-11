@@ -1,10 +1,11 @@
 using System.Collections;
 using UnityEngine;
 using TMPro;
+using System.Collections.Generic;
 
 public class Spawner : MonoBehaviour
 {
-    [SerializeField] private GameObject enemyPrefab;
+    [SerializeField] private List<GameObject> enemyPrefab;
     [SerializeField] private TMP_Text textoOleadas;
     private int puntoAleatorioAnterior = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -35,10 +36,9 @@ public class Spawner : MonoBehaviour
                         posAleatoriaY = Random.Range(-9, 9);
                     }
                     while (posAleatoriaY == puntoAleatorioAnterior);
-                    Debug.Log(posAleatoriaY);
                     puntoAleatorioAnterior = posAleatoriaY;
                     Vector3 puntoAleatorio = new Vector3(transform.position.x, posAleatoriaY, 0);
-                    Instantiate(enemyPrefab, puntoAleatorio, Quaternion.identity);
+                    Instantiate(EscogerEnemigo(2), puntoAleatorio, Quaternion.identity);
                     yield return new WaitForSeconds(0.5f);
 
                 }
@@ -47,5 +47,10 @@ public class Spawner : MonoBehaviour
             yield return new WaitForSeconds(3f);
         }
         
+    }
+
+    GameObject EscogerEnemigo(int oleada) {
+        int valor = Random.Range(0, oleada);
+        return enemyPrefab[valor];
     }
 }

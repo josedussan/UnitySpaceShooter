@@ -72,6 +72,7 @@ public class PlayerP : MonoBehaviour
             ActualizarVida();
             GameObject dano = Instantiate(danoEnemigoPrefab,elOtro.transform.position,Quaternion.identity);
             Destroy(dano,0.12f);
+            Debug.Log(elOtro.tag);
             Destroy(elOtro.gameObject);
             aSource.PlayOneShot(sonidos[0]);
             if (vidas<=0)
