@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 652554402785218977}
   - component: {fileID: 7044011511342648676}
   - component: {fileID: 462298025197911614}
+  - component: {fileID: 8470879229956732478}
   m_Layer: 0
   m_Name: LaserEnemy
   m_TagString: DisparoEnemigo
@@ -122,6 +123,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &8470879229956732478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9044284002890671739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beab46082eb224b49b258b1b2bc8f8cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DestroyAfterLife
+  tiempo: 1
 --- !u!1 &9071189388353152569
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,12 +12,15 @@ public class PlayerP : MonoBehaviour
     [SerializeField] private List<GameObject> SpawnPoints;
     [SerializeField] private Slider salud;
     [SerializeField] private TMP_Text score;
+    [SerializeField] private List<AudioClip> sonidos;
+    private AudioSource aSource;
     private float temporizador = 0.5f;
     private int vidas = 100;
     private int scoreValor = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        aSource = GetComponent<AudioSource>();
         ActualizarVida();
     }
 
@@ -70,9 +73,11 @@ public class PlayerP : MonoBehaviour
             GameObject dano = Instantiate(danoEnemigoPrefab,elOtro.transform.position,Quaternion.identity);
             Destroy(dano,0.12f);
             Destroy(elOtro.gameObject);
+            aSource.PlayOneShot(sonidos[0]);
             if (vidas<=0)
             {
-                Destroy(this.gameObject);
+                aSource.PlayOneShot(sonidos[1]);
+                Destroy(this.gameObject,1f);
             }
         }
     }
