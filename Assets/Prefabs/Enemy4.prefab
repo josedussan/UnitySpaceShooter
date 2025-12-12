@@ -56,13 +56,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4248639950458768051}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: 0, z: -1, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4275224125970291177}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -180}
 --- !u!212 &3098630086507768100
 SpriteRenderer:
   serializedVersion: 2
@@ -112,7 +112,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 1e2cb7450c077d545a6504b9e1ceb954, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fbda03c751f80c1449d66e0d5e04d995, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -132,12 +132,13 @@ GameObject:
   m_Component:
   - component: {fileID: 4275224125970291177}
   - component: {fileID: 3296497150299498816}
+  - component: {fileID: 6800379799884211619}
   - component: {fileID: 5789153067037659960}
   - component: {fileID: 2188514569342204549}
   - component: {fileID: 5384961843505403303}
   - component: {fileID: 7947995527951896767}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Enemy4
   m_TagString: Enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -187,6 +188,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &6800379799884211619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9095583521476092612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d642cf34fcd8ec4994bc03d4510ecc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SeguirObjetivo
+  velocidad: 7
 --- !u!114 &5789153067037659960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -199,8 +213,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 036ad89bf5a492c42804599913e8f92a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemigo
-  velocidad: 7
-  disparoPrefab: {fileID: 9044284002890671739, guid: 0103e24d6b6461047860ec5216057be3, type: 3}
+  velocidad: 0
+  disparoPrefab: {fileID: 9044284002890671739, guid: 0360cdd91b4c7ca429629414592ddcbe, type: 3}
   spawnPoint: {fileID: 780596652840446436}
   explosionPrefab: {fileID: 7132051793679938657, guid: b1c026c5a89b21f4eae756e8bb6d9309, type: 3}
   sonido: {fileID: 8300000, guid: 303d8fed3cf53da49a8f662dde39c3b5, type: 3}

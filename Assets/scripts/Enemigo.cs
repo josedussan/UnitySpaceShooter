@@ -28,7 +28,7 @@ public class Enemigo : MonoBehaviour
         while(true)
         {
             Instantiate(disparoPrefab, spawnPoint.transform.position, Quaternion.identity);
-            yield return new WaitForSeconds(1.5f);
+            yield return new WaitForSeconds(2f);
         }
     }
 

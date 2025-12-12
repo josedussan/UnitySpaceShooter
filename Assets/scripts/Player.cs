@@ -75,7 +75,7 @@ public class PlayerP : MonoBehaviour
     {
         if (elOtro.gameObject.CompareTag("DisparoEnemigo") || elOtro.gameObject.CompareTag("Enemigo"))
         {
-            vidas -= 10;
+            vidas -= 5;
             ActualizarVida();
             GameObject dano = Instantiate(danoEnemigoPrefab,elOtro.transform.position,Quaternion.identity);
             Destroy(dano,0.12f);
@@ -113,7 +113,7 @@ public class PlayerP : MonoBehaviour
                 aplica = true;
                 break;
             case "PowerUp2":
-                vidas += 50;
+                vidas += (100-vidas);
                 ActualizarVida();
                 aplica = true;
                 break;

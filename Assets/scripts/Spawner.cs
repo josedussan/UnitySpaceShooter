@@ -20,14 +20,14 @@ public class Spawner : MonoBehaviour
         
     }
     IEnumerator SpawnearEnemy() {
-        for (int i = 0; i < 5; i++)
+        for (int i = 0; i < 3; i++)
         {
-            for (int j = 0; j < 3; j++)
+            for (int j = 0; j < 5; j++)
             {
-                textoOleadas.text = "Nivel " + (i + 1) + "- Oleada" + (j + 1);
+                textoOleadas.text = "Nivel " + (i + 1) + "- Oleada " + (j + 1);
                 yield return new WaitForSeconds(2f);
                 textoOleadas.text = "";
-                for (int k = 0; k < 10; k++)
+                for (int k = 0; k < 8; k++)
                 {
                     int posAleatoriaY;
 
@@ -38,13 +38,13 @@ public class Spawner : MonoBehaviour
                     while (posAleatoriaY == puntoAleatorioAnterior);
                     puntoAleatorioAnterior = posAleatoriaY;
                     Vector3 puntoAleatorio = new Vector3(transform.position.x, posAleatoriaY, 0);
-                    Instantiate(EscogerEnemigo(2), puntoAleatorio, Quaternion.identity);
-                    yield return new WaitForSeconds(0.5f);
+                    Instantiate(EscogerEnemigo(j), puntoAleatorio, Quaternion.identity,transform);
+                    yield return new WaitForSeconds(1f);
 
                 }
-                yield return new WaitForSeconds(2f);
+                yield return new WaitForSeconds(3f);
             }
-            yield return new WaitForSeconds(3f);
+            yield return new WaitForSeconds(5f);
         }
         
     }

@@ -112,7 +112,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 1e2cb7450c077d545a6504b9e1ceb954, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e33f0a8d401622b47a8dd1f16ae0bafb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 5384961843505403303}
   - component: {fileID: 7947995527951896767}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Enemy3
   m_TagString: Enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -200,7 +200,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemigo
   velocidad: 7
-  disparoPrefab: {fileID: 9044284002890671739, guid: 0103e24d6b6461047860ec5216057be3, type: 3}
+  disparoPrefab: {fileID: 9044284002890671739, guid: a02f6c94c400f404ca38d96003f5c5ce, type: 3}
   spawnPoint: {fileID: 780596652840446436}
   explosionPrefab: {fileID: 7132051793679938657, guid: b1c026c5a89b21f4eae756e8bb6d9309, type: 3}
   sonido: {fileID: 8300000, guid: 303d8fed3cf53da49a8f662dde39c3b5, type: 3}

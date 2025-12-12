@@ -9,12 +9,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3876136309863809825}
-  - component: {fileID: 652554402785218977}
+  - component: {fileID: 6351327681712880474}
   - component: {fileID: 7044011511342648676}
   - component: {fileID: 462298025197911614}
   - component: {fileID: 8470879229956732478}
   m_Layer: 0
-  m_Name: LaserEnemy
+  m_Name: LaserEnemy3
   m_TagString: DisparoEnemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36,7 +36,7 @@ Transform:
   - {fileID: 348746809225419266}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &652554402785218977
+--- !u!114 &6351327681712880474
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -45,11 +45,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 9044284002890671739}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f633f70e85edc77418871490a317a0b5, type: 3}
+  m_Script: {fileID: 11500000, guid: c289126f9e1880f4ca70d2bad64d65d9, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Disparo
-  velocidad: 20
-  direccion: {x: -1, y: 0, z: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::DisparoGuiado
+  velocidad: 10
 --- !u!61 &7044011511342648676
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -217,7 +216,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 4058247577424173440, guid: 499bd2e2f5389244fb21b595bea239bd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4855b823431f1264fae3842aeb0109c3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
