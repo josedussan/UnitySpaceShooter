@@ -8,6 +8,9 @@ TagManager:
   - DisparoPlayer
   - DisparoEnemigo
   - PowerUp
+  - PowerUp1
+  - PowerUp2
+  - Escudo
   layers:
   - Default
   - TransparentFX
