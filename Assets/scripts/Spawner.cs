@@ -7,6 +7,8 @@ public class Spawner : MonoBehaviour
 {
     [SerializeField] private List<GameObject> enemyPrefab;
     [SerializeField] private TMP_Text textoOleadas;
+    [SerializeField] private List<GameObject> PowerUps;
+    private float probA = 0.4f, probB = 0.3f;
     private int puntoAleatorioAnterior = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,16 +31,14 @@ public class Spawner : MonoBehaviour
                 textoOleadas.text = "";
                 for (int k = 0; k < 8; k++)
                 {
-                    int posAleatoriaY;
-
-                    do
-                    {
-                        posAleatoriaY = Random.Range(-9, 9);
-                    }
-                    while (posAleatoriaY == puntoAleatorioAnterior);
-                    puntoAleatorioAnterior = posAleatoriaY;
-                    Vector3 puntoAleatorio = new Vector3(transform.position.x, posAleatoriaY, 0);
+                    
+                    Vector3 puntoAleatorio = new Vector3(transform.position.x, NumeroAletario(), 0);
                     Instantiate(EscogerEnemigo(j), puntoAleatorio, Quaternion.identity,transform);
+                    if (k==7)
+                    {
+                        Vector3 puntoAleatorioP = new Vector3(transform.position.x, NumeroAletario(), 0);
+                        Instantiate(SpawnPowerUp(), puntoAleatorioP, Quaternion.identity, transform);
+                    }
                     yield return new WaitForSeconds(1f);
 
                 }
@@ -49,8 +49,40 @@ public class Spawner : MonoBehaviour
         
     }
 
+    private int NumeroAletario() {
+        int posAleatoriaY;
+
+        do
+        {
+            posAleatoriaY = Random.Range(-9, 9);
+        }
+        while (posAleatoriaY == puntoAleatorioAnterior);
+        puntoAleatorioAnterior = posAleatoriaY;
+        return posAleatoriaY;
+    }
+
     GameObject EscogerEnemigo(int oleada) {
         int valor = Random.Range(0, oleada);
         return enemyPrefab[valor];
+    }
+
+    public GameObject SpawnPowerUp()
+    {
+        float r = Random.value; // 0.0 – 1.0
+        GameObject resultado;
+        if (r <= probA)
+        {
+            resultado= PowerUps[0];
+        }
+        else if (r <= probA + probB)
+        {
+            resultado= PowerUps[1];
+        }
+        else
+        {
+            resultado= PowerUps[2];
+        }
+
+        return resultado;
     }
 }

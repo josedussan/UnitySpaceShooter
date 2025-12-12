@@ -20,6 +20,7 @@ public class PlayerP : MonoBehaviour
     private int vidas = 100;
     private int scoreValor = 0;
     private int numPoints=1;
+    private bool invulnerabilidad=false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -75,27 +76,31 @@ public class PlayerP : MonoBehaviour
     {
         if (elOtro.gameObject.CompareTag("DisparoEnemigo") || elOtro.gameObject.CompareTag("Enemigo"))
         {
-            vidas -= 5;
-            ActualizarVida();
+            
             GameObject dano = Instantiate(danoEnemigoPrefab,elOtro.transform.position,Quaternion.identity);
+
             Destroy(dano,0.12f);
             Destroy(elOtro.gameObject);
-            aSource.PlayOneShot(sonidos[0]);
-            if (vidas<=0)
+            if (!invulnerabilidad)
             {
-                aSource.PlayOneShot(sonidos[1]);
-                Destroy(this.gameObject,1f);
-                PanelGameOver.SetActive(true);
+                vidas -= 5;
+                ActualizarVida();
+                aSource.PlayOneShot(sonidos[0]);
+                if (vidas <= 0)
+                {
+                    aSource.PlayOneShot(sonidos[1]);
+                    Destroy(this.gameObject, 1f);
+                    PanelGameOver.SetActive(true);
+                }
             }
+            
         }
         Debug.Log(elOtro.gameObject.tag);
         if (ActivarPowerUps(elOtro.gameObject.tag))
         {
+            aSource.PlayOneShot(sonidos[2]);
             Destroy(elOtro.gameObject);
         }
-        
-
-
     }
 
     private bool ActivarPowerUps(string tag) {
@@ -109,7 +114,7 @@ public class PlayerP : MonoBehaviour
                 break;
             case "PowerUp1":
                 escudo.gameObject.SetActive(true);
-                GetComponent<BoxCollider2D>().enabled=false;
+                invulnerabilidad = true;
                 aplica = true;
                 break;
             case "PowerUp2":
@@ -125,8 +130,10 @@ public class PlayerP : MonoBehaviour
         yield return new WaitForSeconds(tiempo);
         numPoints = 1;
         escudo.gameObject.SetActive(false);
-        GetComponent<BoxCollider2D>().enabled = true;
+        invulnerabilidad = false;
     }
+
+
 
 
     public void PausarJuego()
@@ -140,4 +147,6 @@ public class PlayerP : MonoBehaviour
         Time.timeScale = 1f;
         PanelPausa.SetActive(false);
     }
+
+
 }
