@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 public class LevelLoader : MonoBehaviour
 {
     public Animator transicion;
-    public string scene;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,11 +17,11 @@ public class LevelLoader : MonoBehaviour
         
     }
 
-    public void LoadScene() {
-        StartCoroutine(LoadLevel());
+    public void LoadScene(string scene) {
+        StartCoroutine(LoadLevel(scene));
     }
 
-    IEnumerator LoadLevel() {
+    IEnumerator LoadLevel(string scene) {
         transicion.SetTrigger("Start");
 
         yield return new WaitForSeconds(1f);

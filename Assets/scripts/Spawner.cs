@@ -8,6 +8,7 @@ public class Spawner : MonoBehaviour
     [SerializeField] private List<GameObject> enemyPrefab;
     [SerializeField] private TMP_Text textoOleadas;
     [SerializeField] private List<GameObject> PowerUps;
+    [SerializeField] private GameObject PanelWin;
     private float probA = 0.4f, probB = 0.3f;
     private int puntoAleatorioAnterior = 0;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -26,7 +27,7 @@ public class Spawner : MonoBehaviour
         {
             for (int j = 0; j < 5; j++)
             {
-                textoOleadas.text = "Nivel " + (i + 1) + "- Oleada " + (j + 1);
+                textoOleadas.text = "Nivel " + (i + 1) + " - Oleada " + (j + 1);
                 yield return new WaitForSeconds(2f);
                 textoOleadas.text = "";
                 for (int k = 0; k < 8; k++)
@@ -34,7 +35,7 @@ public class Spawner : MonoBehaviour
                     
                     Vector3 puntoAleatorio = new Vector3(transform.position.x, NumeroAletario(), 0);
                     Instantiate(EscogerEnemigo(j), puntoAleatorio, Quaternion.identity,transform);
-                    if (k==7)
+                    if (k==3)
                     {
                         Vector3 puntoAleatorioP = new Vector3(transform.position.x, NumeroAletario(), 0);
                         Instantiate(SpawnPowerUp(), puntoAleatorioP, Quaternion.identity, transform);
@@ -46,7 +47,7 @@ public class Spawner : MonoBehaviour
             }
             yield return new WaitForSeconds(5f);
         }
-        
+        PanelWin.SetActive(true);
     }
 
     private int NumeroAletario() {

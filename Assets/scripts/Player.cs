@@ -7,13 +7,13 @@ using TMPro;
 public class PlayerP : MonoBehaviour
 {
     [SerializeField] private float velocidad;
-    [SerializeField] private GameObject PanelGameOver,PanelPausa;
+    [SerializeField] private GameObject PanelGameOver,PanelPausa,PanelWin,PanelDamage;
     [SerializeField] private float ratioDisparo;
     [SerializeField] private GameObject disparoPrefab,escudo;
     [SerializeField] private GameObject danoEnemigoPrefab;
     [SerializeField] private List<GameObject> SpawnPoints;
     [SerializeField] private Slider salud;
-    [SerializeField] private TMP_Text score;
+    [SerializeField] private TMP_Text score,ScoreWin;
     [SerializeField] private List<AudioClip> sonidos;
     private AudioSource aSource;
     private float temporizador = 0.5f;
@@ -70,6 +70,7 @@ public class PlayerP : MonoBehaviour
     public void ActualizarScore(int valor) {
         scoreValor += valor;
         score.text = scoreValor.ToString();
+        ScoreWin.text= "SCORE: "+scoreValor.ToString();
     }
 
     private void OnTriggerEnter2D(Collider2D elOtro)
@@ -86,10 +87,12 @@ public class PlayerP : MonoBehaviour
                 vidas -= 5;
                 ActualizarVida();
                 aSource.PlayOneShot(sonidos[0]);
+                StartCoroutine(recibirDanio());
+                
                 if (vidas <= 0)
                 {
                     aSource.PlayOneShot(sonidos[1]);
-                    Destroy(this.gameObject, 1f);
+                    Destroy(this.gameObject);
                     PanelGameOver.SetActive(true);
                 }
             }
@@ -103,18 +106,25 @@ public class PlayerP : MonoBehaviour
         }
     }
 
+    IEnumerator recibirDanio() {
+        PanelDamage.SetActive(true);
+        yield return new WaitForSeconds(0.2f);
+        PanelDamage.SetActive(false);
+    }
+
     private bool ActivarPowerUps(string tag) {
         bool aplica = false;
         switch (tag)
         {
             case "PowerUp":
                 numPoints = 3;
-                StartCoroutine(Espera(5f));
+                StartCoroutine(Espera(8f));
                 aplica = true;
                 break;
             case "PowerUp1":
                 escudo.gameObject.SetActive(true);
                 invulnerabilidad = true;
+                StartCoroutine(Espera(8f));
                 aplica = true;
                 break;
             case "PowerUp2":
@@ -146,6 +156,7 @@ public class PlayerP : MonoBehaviour
     {
         Time.timeScale = 1f;
         PanelPausa.SetActive(false);
+        PanelWin.SetActive(false);
     }
 
 
