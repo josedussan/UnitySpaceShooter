@@ -7,7 +7,7 @@ using TMPro;
 public class PlayerP : MonoBehaviour
 {
     [SerializeField] private float velocidad;
-    [SerializeField] private GameObject PanelGameOver;
+    [SerializeField] private GameObject PanelGameOver,PanelPausa;
     [SerializeField] private float ratioDisparo;
     [SerializeField] private GameObject disparoPrefab,escudo;
     [SerializeField] private GameObject danoEnemigoPrefab;
@@ -132,10 +132,12 @@ public class PlayerP : MonoBehaviour
     public void PausarJuego()
     {
         Time.timeScale = 0f;
+        PanelPausa.SetActive(true);
     }
 
     public void ReanudarJuego()
     {
         Time.timeScale = 1f;
+        PanelPausa.SetActive(false);
     }
 }
